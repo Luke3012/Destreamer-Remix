@@ -1,0 +1,11 @@
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\Destreamer Remix\Destreamer Remix\bin\Debug\Destreamer Remix.exe.config
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\Destreamer Remix\Destreamer Remix\bin\Debug\Destreamer Remix.exe
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\Destreamer Remix\Destreamer Remix\bin\Debug\Destreamer Remix.pdb
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\Destreamer Remix\Destreamer Remix\obj\Debug\Destreamer_Remix.destreamer_remix.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\Destreamer Remix\Destreamer Remix\obj\Debug\Destreamer_Remix.Properties.Resources.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\Destreamer Remix\Destreamer Remix\obj\Debug\Destreamer_Remix.updateform.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\Destreamer Remix\Destreamer Remix\obj\Debug\Destreamer Remix.csproj.GenerateResource.cache
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\Destreamer Remix\Destreamer Remix\obj\Debug\Destreamer Remix.csproj.CoreCompileInputs.cache
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\Destreamer Remix\Destreamer Remix\obj\Debug\Destreamer Remix.exe
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\Destreamer Remix\Destreamer Remix\obj\Debug\Destreamer Remix.pdb
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\Destreamer Remix\Destreamer Remix\obj\Debug\Destreamer Remix.csprojAssemblyReference.cache
